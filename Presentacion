@@ -1,0 +1,9 @@
+Universidad Tecnologica de Leon.
+Christopher Rojo Chavez.
+Grupo LDSM405 - Desarrollo de aplicaciones Moviles con Kotlin
+Profesora: Ma Brizuela.
+
+
+Adopta un amigo es una aplicacion creada para poder guardar mascotas, emulando un sistema de adopcionque puede escalarse posteriormente.
+Esta misma hace el uso de Room para persistir la informacion que se pretenda guardar en la app.
+Adicionalmente,  hace uso de foil para poder guardar fotos dentro de la app.
